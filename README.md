@@ -9,7 +9,7 @@
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 - 🔭 I’m currently working on [Supervisor Solutions](https://www.supervisorsolutions.com)
 
-- 💬 Ask me about **nextjs, nodejs, mongodb, flutter**
+- 💬 Ask me about **nextjs, nodejs, mongodb, react native**
 
 - 📫 How to reach me **hrsohel679@gmail.com**
 
