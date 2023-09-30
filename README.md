@@ -1,4 +1,4 @@
-![logo](https://github.com/hrsohel/hrsohel/blob/main/instagram.png)
+![logo](https://github.com/hrsohel/hrsohel/blob/main/Screenshot%202023-10-01%20053450.png)
 <h1 align="center">Hi 👋, I'm HR Sohel</h1>
 <h3 align="center">A passionate web and software developer from Bangladesh</h3>
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hrsohel10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hrsohel10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hr-sohel-735487236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hr-sohel-735487236" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammad-harunur-rashid-057857287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hr-sohel-735487236" height="30" width="40" /></a>
 <a href="https://fb.com/hr.sohel.980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hr.sohel.980" height="30" width="40" /></a>
 </p>
 
