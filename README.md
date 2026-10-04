@@ -1,4 +1,4 @@
-![logo](https://github.com/hrsohel/hrsohel/blob/main/Screenshot%202023-10-01%20053450.png)
+![logo]([https://github.com/hrsohel/hrsohel/blob/main/Screenshot%202023-10-01%20053450.png](https://github.com/hrsohel/hrsohel/blob/main/Gemini_Generated_Image_7cr0ua7cr0ua7cr0.jpg))
 
 <h1 align="center">Hi 👋, I'm HR Sohel</h1>
 <h3 align="center">Software Engineer | AI & Physics Researcher | Full-Stack Developer</h3>
